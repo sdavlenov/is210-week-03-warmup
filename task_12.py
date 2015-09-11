@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""this module imports both decimal and fractions"""
+
 import decimal
 import fractions
 
